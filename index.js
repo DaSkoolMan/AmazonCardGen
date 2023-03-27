@@ -8,7 +8,7 @@ const interface = readline.createInterface({
     output: process.stdout
 });
 
-
+const randomnums = "0123456789"
 const ModesText = `
 =============================
 Modes Available:
